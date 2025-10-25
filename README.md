@@ -1,2 +1,2 @@
-# DevSoc-repo-
+# DevSoc-repo
 for DevSoc assignments
